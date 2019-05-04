@@ -1,5 +1,5 @@
 background：green
-## Welcome to 93+ Blog
+## [link](Welcome to 93+ Blog)
 
 网络上关于github和hexo结合建设个人博客的文章都很粗略，但作为一个新手来说，在实践过程中总是会遇见这样那样的问题。
 所以真的很让人烦恼～～～谁来帮我一下呢。
@@ -8,14 +8,14 @@ background：green
 
 ### Markdown笔记
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown笔记很牛的
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 大标题
+## 二级标题
+### 三级标题
 
 - Bulleted
 - List
