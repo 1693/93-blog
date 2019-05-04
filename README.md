@@ -1,6 +1,7 @@
 ## Welcome to 93+ Blog
 
-You can use the [editor on GitHub](https://github.com/1693/93blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+网络上关于github和hexo结合建设个人博客的文章都很粗略，但作为一个新手来说，在实践过程中总是会遇见这样那样的问题。
+所以真的很让人烦恼～～～谁来帮我一下呢。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
