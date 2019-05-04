@@ -8,14 +8,14 @@ background：green
 
 ### Markdown笔记
 
-Markdown笔记很牛的
+如何让这个页面看上区更好看一点呢？这也是一个面临的新问题。
 
 ```markdown
 Syntax highlighted code block
 
-# 大标题
-## 二级标题
-### 三级标题
+# 问题1：如何能改善静态页面的美观程度？
+## 问题2:如何才能想其他网页一样有后台的去读能力？
+### 问题3:上面的问题解决了吗？
 
 - Bulleted
 - List
@@ -23,7 +23,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**粗体** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
