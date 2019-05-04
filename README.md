@@ -1,11 +1,12 @@
+background：green
 ## Welcome to 93+ Blog
 
 网络上关于github和hexo结合建设个人博客的文章都很粗略，但作为一个新手来说，在实践过程中总是会遇见这样那样的问题。
 所以真的很让人烦恼～～～谁来帮我一下呢。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+总是很无助，需要增加更多的模组，更智能的更新推送新的文章。
 
-### Markdown
+### Markdown笔记
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
